@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">codeLinc6</string>
+    <string name="place_holder">empty</string>
+    <string name="title_activity_maps">Location Finder</string>
 </resources>
